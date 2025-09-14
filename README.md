@@ -11,7 +11,7 @@ This repository contains organization-wide templates and policies for [Artificer
 
 ## 🏢 About
 
-These templates are automatically used by all repositories in the Artificer Innovations organization when they don't have their own versions of these files.
+These templates serve as defaults for all repositories in the Artificer Innovations organization and should be used when repositories don't have their own versions of these files.
 
 For more information about our organization, visit our [profile page](profile/README.md).
 
