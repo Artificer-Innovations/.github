@@ -9,7 +9,7 @@ We build open-source tools, SaaS products, and developer resources that help tea
 - **Labs** – experiments, prototypes, and ideas in progress.
 
 ## 🌟 Featured Projects
-- [project-one](https://github.com/Artificer-Innovations/aws-static-site-pr-deployment) – AWS-powered PR deployment template for static sites. Every PR gets its own preview URL with automated E2E testing. S3 + CloudFront + GitHub Actions.
+- [aws-static-site-pr-deployment](https://github.com/Artificer-Innovations/aws-static-site-pr-deployment) – AWS-powered PR deployment template for static sites. Every PR gets its own preview URL with automated E2E testing. S3 + CloudFront + GitHub Actions.
 
 ## 🤝 Contributing
 We welcome pull requests and issues! Please see our [CONTRIBUTING.md](../CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md).
