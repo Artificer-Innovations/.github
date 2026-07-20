@@ -9,6 +9,7 @@ Welcome to the official GitHub organization for **Artificer Innovations, LLC** �
 
 ## Featured Projects
 - [BeakerStack](https://github.com/Artificer-Innovations/BeakerStack) – Opinionated Supabase template for shipping B2C SaaS faster — web (React + Vite) and mobile (Expo) from a shared codebase, with auth, Stripe billing, and PR previews.
+- [nanoclaw-hosthooks](https://github.com/Artificer-Innovations/nanoclaw-hosthooks) – Composable host extension hooks for NanoClaw skills — stable seams for webchat and agenttrace without baking product logic into the host. ([npm](https://www.npmjs.com/package/nanoclaw-hosthooks))
 - [nanoclaw-webchat](https://github.com/Artificer-Innovations/nanoclaw-webchat) – Local-first web chat for [NanoClaw](https://github.com/nanocoai/nanoclaw) agents — lobby `@mentions`, per-agent DMs, threading, and an MCP server for Cursor. ([npm](https://www.npmjs.com/package/nanoclaw-webchat))
 - [nanoclaw-agenttrace](https://github.com/Artificer-Innovations/nanoclaw-agenttrace) – Live agent activity traces for NanoClaw — tools, task progress, optional reasoning summaries, and silence keepalives during long turns. ([npm](https://www.npmjs.com/package/nanoclaw-agenttrace))
 - [nanoclaw-adminapi](https://github.com/Artificer-Innovations/nanoclaw-adminapi) – Token-authenticated HTTP admin API for NanoClaw — create, list, update, and restart agent groups without baking logic into core. ([npm](https://www.npmjs.com/package/nanoclaw-adminapi))
